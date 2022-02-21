@@ -75,14 +75,14 @@ body {
 
 .conteudo-principal-escrito-botao {
   background-color: #ECD6C4;
-  width: 180px;
-  height: 60px;
+  width: 280px;/*comprimento do botao*/
+  height: 60px;/*altura do botao*/
   border: none;
   box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
   border-radius: 20px;
   font-family: 'Sarala', sans-serif;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 24px;/*tamanho das letras do botao*/
   color: #2F2325;
 }
 
@@ -120,6 +120,8 @@ body {
 }
 
 .rodape {
+  
+  
     padding: 32px;
     border-top: 0.4px solid #FFF2E7;
 }
@@ -128,7 +130,5 @@ body {
   height: 150px;
   display: block;
   margin: 0 auto;
-
-  
 
 }
