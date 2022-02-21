@@ -19,6 +19,10 @@ body {
   align-items: center;/*alinhado no centro*/
   justify-content: space-around;
   padding: 24px;/* distancia da imagem(coelho)ate ao topo do site*/
+
+  animation: bounceInLeft;/* escolha do tipo de animacao*/
+  animation-duration: 2s;/* tempo da animacao*/
+
 }
 
 .cabecalho-imagem {
